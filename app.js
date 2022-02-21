@@ -16,5 +16,5 @@ function solveRect(length, width) {
 
 solveRect(2, 4);
 solveRect(3, 5);
-solveRect(0, 5);
-solveRect(5, -3);
+solveRect(0, 5); //invalid
+solveRect(5, -3); //invalid
