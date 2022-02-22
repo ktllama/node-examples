@@ -1,4 +1,4 @@
-const rect = require('./rectangle');
+import rect from './rectangle.mjs';
 //now this file knows to look in the same folder as itself for a js file named rectangle
 //now rect is expecting a function not an object
 
